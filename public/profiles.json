@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "description": "Software Engineer at TechCorp",
+    "photo": "https://www.google.com/imgres?q=photo%20man%20hd&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F2379004%2Fpexels-photo-2379004.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D1%26w%3D500&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fman%2F&docid=siXBgr-E-CQ1BM&tbnid=umGWC1fskDrqvM&vet=12ahUKEwju-dOUx_-KAxVlzDgGHSfCPHIQM3oFCIIBEAA..i&w=500&h=755&hcb=2&ved=2ahUKEwju-dOUx_-KAxVlzDgGHSfCPHIQM3oFCIIBEAA",
+    "address": "123 Tech Street, San Francisco, CA",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "description": "Graphic Designer at DesignStudio",
+    "photo": "https://www.google.com/imgres?q=photo%20man%20hd&imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F01%2F34%2F51%2F81%2F360_F_134518160_5DyP0y6YqXQgG6FdorIvpk7M6CBNrglm.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprofessional%2Bman&docid=RCTj1uR-dE02wM&tbnid=MLLoooF_TCoURM&vet=12ahUKEwju-dOUx_-KAxVlzDgGHSfCPHIQM3oECGUQAA..i&w=540&h=360&hcb=2&ved=2ahUKEwju-dOUx_-KAxVlzDgGHSfCPHIQM3oECGUQAA",
+    "address": "456 Art Avenue, New York, NY",
+    "lat": 40.7128,
+    "lng": -74.0060
+  }
+]
