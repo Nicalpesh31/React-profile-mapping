@@ -1,0 +1,28 @@
+.profile-list, .admin-page, .profile-details {
+  padding: 20px;
+}
+
+.profile-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.profile-card img {
+  max-width: 150px;
+  height: auto;
+}
+
+.admin-page input {
+  display: block;
+  margin: 10px 0;
+}
+
+.admin-page button {
+  margin-top: 10px;
+}
+
+.search-bar {
+  margin: 20px;
+}
